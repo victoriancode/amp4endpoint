@@ -14,7 +14,7 @@ Authors: Max Wijnbladh and Chris Maxwell
 Requirements: 
  - AMP Console Dashboard login details 
  - Python v2.7
- - AMP for Endpoints API documentation v1:[v1](https://api-docs.amp.cisco.com/api_resources?api_host=api.eu.amp.cisco.com&api_version=v1)
+ - AMP for Endpoints [API documentation v1](https://api-docs.amp.cisco.com/api_resources?api_host=api.eu.amp.cisco.com&api_version=v1)
  
  Step 1:
  Open a terminal and run the following:
