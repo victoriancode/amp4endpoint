@@ -10,7 +10,7 @@ Authors: Max Wijnbladh and Chris Maxwell
 
 ## Installation Guide
 Requirements: 
- - AMP Console Dashboard login details
+ - AMP Console Dashboard login details 
  - Python v2.7
  
  Step 1:
@@ -21,7 +21,10 @@ Requirements:
  '''
  
  Step 2:
- 2.1 If you have parameters, open config.ini, enter credentials and then save file:
+ 
+ **Option 1:**
+ 
+ If you have parameters, open config.ini, enter credentials and then save file. Then run these commands
  ```
  python amp4ep_duplicate_fixer.py
  n
@@ -29,14 +32,13 @@ Requirements:
  
  OR
  
- 2.2 Run the following command and your AMP console credentials:
+**Option 2:** Run the following command and your AMP console credentials:
  
+ Enter your AMP Console details after these commands
  ```
  python amp4ep_duplicate_fixer.py
  y
  ```
- Enter your AMP Console details
- 
  _____
 ## Demo
 Video: https://youtu.be/jXujBqelfLU
