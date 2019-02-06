@@ -6,7 +6,7 @@ The script executes as follows: Enter AMP4E -API Credentials -> Search all hostn
 
 Use Case: Host machine is wiped, new machine installs new AMP4EP connector. AMP4EP Console displays 2 licenses, one for wiped machine as well as new machine. Script deletes older machine plus GUID with matching hostnames.
 
-[For License Information click here](./LICENSE)
+[For License Information click here.](./LICENSE)
 
 Authors: Max Wijnbladh and Chris Maxwell
 
@@ -14,6 +14,7 @@ Authors: Max Wijnbladh and Chris Maxwell
 Requirements: 
  - AMP Console Dashboard login details 
  - Python v2.7
+ - AMP for Endpoints API documentation v1:[v1](https://api-docs.amp.cisco.com/api_resources?api_host=api.eu.amp.cisco.com&api_version=v1)
  
  Step 1:
  Open a terminal and run the following:
