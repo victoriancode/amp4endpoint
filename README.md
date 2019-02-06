@@ -16,14 +16,13 @@ Requirements:
  - Python v2.7
  - AMP for Endpoints [API documentation v1](https://api-docs.amp.cisco.com/api_resources?api_host=api.eu.amp.cisco.com&api_version=v1)
  
- Step 1:
+ **Step 1:**
  Open a terminal and run the following:
  '''
  git clone https://github.com/victoriancode/amp4endpoint
  cd victoriancode/amp4endpoint
  '''
- 
- Step 2:
+ **Step 2:**
  
  **Option 1:**
  
