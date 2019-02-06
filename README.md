@@ -24,9 +24,8 @@ Requirements:
  '''
  
  **Step 2:**
- Option 1:
  
- If you have parameters, open config.ini, enter credentials and then save file. Then run these commands
+ Option 1:If you have parameters, open config.ini, enter credentials and then save file. Then run these commands
  ```
  python amp4ep_duplicate_fixer.py
  n
