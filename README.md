@@ -6,7 +6,7 @@ The script executes as follows: Enter AMP4E -API Credentials -> Search all hostn
 
 Use Case: Host machine is wiped, new machine installs new AMP4EP connector. AMP4EP Console displays 2 licenses, one for wiped machine as well as new machine. Script deletes older machine plus GUID with matching hostnames.
 
-For License Information, see ![](LICENSE)
+(For License Information see)[./LICENSE]
 Authors: Max Wijnbladh and Chris Maxwell
 
 ## Installation Guide
