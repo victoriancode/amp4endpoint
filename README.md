@@ -22,19 +22,19 @@ Requirements:
  
  Step 2:
  2.1 If you have parameters, open config.ini, enter credentials and then save file:
- '''
+ ```
  python amp4ep_duplicate_fixer.py
  n
- '''
+ ```
  
  OR
  
  2.2 Run the following command and your AMP console credentials:
  
- '''
+ ```
  python amp4ep_duplicate_fixer.py
  y
- '''
+ ```
  Enter your AMP Console details
  
  _____
