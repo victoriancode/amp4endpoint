@@ -1,6 +1,6 @@
 [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/victoriancode/amp4endpoint)
 # AMP for Endpoints - Duplicate Fixer
-This python script is intended to delete duplicated AMP for Endpoint (AMP4EP) hostnames.
+This python script is intended to delete duplicated AMP for Endpoint (AMP4EP) hostnames in the AMP4EP portal.
 
 The script executes as follows: 
 
