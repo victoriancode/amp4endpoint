@@ -16,9 +16,10 @@ import ConfigParser
 
 #parameters:
 
-client_id = "54794f19e060a589b483"
-api_key = "b5a7bcff-0fd3-4895-934c-19859b91f21c"
-guid = "3d48ae74-777c-41c1-96b9-1f771bdf15fd"
+#Update parameters
+client_id = "<<Enter Client ID>>"
+api_key = "<<Enter API Key>>"
+guid = "<<Enter GUID>>"
 sleep_time = 5
 auth_string = ""
 
